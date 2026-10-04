@@ -1,0 +1,23 @@
+TRAMA ACOMPANHAMENTO — VERSÃO PWA
+
+Arquivos para publicar no GitHub Pages:
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- pasta icons/
+
+IMPORTANTE:
+A instalação como aplicativo funciona a partir do site publicado por HTTPS
+(ex.: GitHub Pages). Abrir somente o arquivo index.html pelo computador não
+ativa todos os recursos de PWA.
+
+Depois de atualizar o repositório:
+1. substitua o index.html atual;
+2. envie manifest.webmanifest;
+3. envie service-worker.js;
+4. envie a pasta icons com os dois PNG;
+5. aguarde o GitHub Pages republicar;
+6. abra o site no Chrome ou Edge;
+7. use a opção "Instalar TRAMA Acompanhamento" ou o ícone de instalação na barra.
+
+Os dados continuam armazenados localmente no navegador de cada usuário.
